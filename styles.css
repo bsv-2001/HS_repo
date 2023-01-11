@@ -1,0 +1,24 @@
+
+#main{
+    background-color: #eee;
+    margin-top: 25px;
+    text-align: center;
+}
+#title{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+}
+.title-p{
+    color: #333;
+}
+
+#img-div{
+    background-color: white;
+    padding : 20px 30px 20px 30px
+}
+#img-caption{
+    font-size: 1.05rem;
+    color: #333;
+    margin-top: 3px;
+}
